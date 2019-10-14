@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+
+### Ana Izabel Jacobsen 
+- Photo: https://avatars1.githubusercontent.com/u/13037895?s=460&v=4
+- Location: Brasil, RJ 
+- Bio: 📱Front End Developer . 💻 🔥
+- Github: https://github.com/jacobsenanaizabel
